@@ -42,7 +42,7 @@ h1 {
 
 .header img {
   background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
-  max-height: 100%;
+  
   max-width: 100%;
   float: top;
   border-top: 1mm solid red;
@@ -50,7 +50,6 @@ h1 {
 
 .footer img {
   background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
-  max-height: 100%;
   max-width: 100%;
   float: bottom;
   border-bottom: 1mm solid red;
