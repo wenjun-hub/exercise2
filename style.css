@@ -45,6 +45,7 @@ h1 {
   max-height: 100%;
   max-width: 100%;
   float: top;
+  border-top: 1mm solid red;
 }
 
 .footer img {
@@ -52,6 +53,7 @@ h1 {
   max-height: 100%;
   max-width: 100%;
   float: bottom;
+  border-bottom: 1mm solid red;
 }
 
 .address {
@@ -60,4 +62,12 @@ h1 {
   max-height: 90px;
   max-width: 150px;
   float: right;
+}
+
+
+h1 {
+  background-image: url(logo.png);
+  /* filter: drop-shadow(3px 3px 3px black); */
+  border-radius: 64px;
+  box-shadow: 3px 3px 3px black;
 }
