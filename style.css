@@ -55,7 +55,9 @@ h1 {
 }
 
 .address {
+  font-family: sans-serif;
+  font-size: 12;
   max-height: 90px;
-  max-width: 120px;
+  max-width: 150px;
   float: right;
 }
