@@ -45,3 +45,15 @@ h1 {
   max-width: 100%;
   float: top;
 }
+
+.footer img {
+  max-height: 100%;
+  max-width: 100%;
+  float: bottom;
+}
+
+.address {
+  max-height: 100px;
+  max-width: 150px;
+  float: right;
+}
