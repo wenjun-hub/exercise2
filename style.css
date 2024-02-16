@@ -62,7 +62,6 @@ h1 {
 
 h1 {
   background-image: url(logo.png);
-  filter: drop-shadow(3px 3px 3px black); 
   border-radius: 64px;
-  box-shadow: 3px 3px 3px black;
+  box-shadow: 4px 4px 4px black;
 }
